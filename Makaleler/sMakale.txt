@@ -1,0 +1,2 @@
+Prosedürler,functions,style/resimler/icerik1.png,
+Triggers,Tetikleyiciler,style/resimler/icerik1.png,

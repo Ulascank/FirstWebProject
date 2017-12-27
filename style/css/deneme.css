@@ -1,0 +1,103 @@
+.headerOzetBaslik h1{
+  text-align: center;
+    font-size: 46px;
+    font-weight: 700;
+    color:#333;
+    line-height: 40px;
+    text-transform: capitalize;
+    position: relative;
+}
+.headerOzetIcerik{
+      background-color:#fff;
+      float: left;
+      width: 50%;
+}
+.headerOzetIcerik h2{
+  text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color:#333;
+    line-height: 40px;
+    text-transform: capitalize;
+    position: relative;
+}
+.headerOzetIcerik h5{
+  text-align: center;
+    font-size: 16px;
+    margin: 0 0 10px;
+    color:#333;
+    position: relative;
+    bottom: 50px;
+}
+.headerOzetIcerik h4 {
+  text-align: center;
+  font-weight: 800;
+  position: relative;
+  bottom: 80px;
+  line-height: 40px;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.headerOzetIcerik p{
+  position: relative;
+  bottom: 75px;
+  left: 20px;
+  font-size: 15px;
+}
+
+.siteHaritasi{
+  background-color:#fff;
+  float: right;
+  width: 50%;
+}
+.siteHaritasi h5{
+  text-align: center;
+    font-size: 26px;
+    margin: 0 0 10px;
+    color:#333;
+    position: relative;
+    top: 30px;
+}
+.GenelKategori{
+  position: relative;
+  float: right;
+  top:10px;
+  width: 25%;
+  height:100%;
+  color: #333;
+}
+.GenelKategori a{
+  color :#333;
+
+}
+.kategoriler{
+  width:80%;
+  height: 80px;
+  background-color:  rgba(124, 75, 170, 0.89);;
+  text-align: center;
+  color:#fff;
+  float: left;
+  position:relative;
+  left: 50px;
+
+  margin: 3px 20px 5px 5px;
+}
+.kategoriler:hover{
+  transform: scale(1.05);
+  transition: 1s ease;
+  transition: color(pink);
+}
+.gizliDiv{
+    text-align: center;
+    padding: 12px;
+    display: none;
+    color:#fff;
+    font-size:12px;
+}
+.Footer{
+  position: relative;
+  top:50px;
+  left: 20px;
+  font-size: 12px;
+  float :left;
+}

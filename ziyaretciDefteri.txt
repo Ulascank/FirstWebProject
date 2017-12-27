@@ -1,0 +1,6 @@
+﻿Ulaşcan Kılıç,harika bir blog!,style/resimler/man.png,ulascank1@gmail.com,04.12.2017 23:39:05,
+Eylül,Selamlar!,style/resimler/girl.png,eylul@gmail.com,04.12.2017 23:45:37,
+Berk,Merhaba,style/resimler/man.png,berk@gmail.com,05.12.2017 00:47:58,Atanur,Selamlaaaaaar!,style/resimler/man.png,atanur@gmail.com,05.12.2017 01:11:36,
+oktay,N'aber?!,style/resimler/man.png,oktay@gmail.com,05.12.2017 01:12:25,
+Atanur,Harika!,style/resimler/girl.png,atanur@gmail.com,05.12.2017 01:13:24,
+Murat,Excellent!,style/resimler/man.png,murat@hotmail.com,05.12.2017 01:28:01,

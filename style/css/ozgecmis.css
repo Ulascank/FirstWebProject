@@ -1,0 +1,32 @@
+
+.ozgecmis{
+  margin: 0 auto;
+  width: 65%;
+  position: relative;
+  text-align: center;
+  padding: 0;
+
+}
+.egitimIcerik h2{
+  border-bottom: 1px solid #333;
+  letter-spacing: 10px;
+  font-weight: 100;
+}
+.isIcerik h3{
+
+  border-bottom: 0.02px solid #333;
+}
+.projelerIcerik h3{
+    border-bottom: 1px solid #333;
+}
+.iletisim{
+padding: 2%;
+
+}
+a{
+  text-decoration: none;
+  color: #333;
+  position: relative;
+  bottom: 20px;
+  left: 20px;
+}

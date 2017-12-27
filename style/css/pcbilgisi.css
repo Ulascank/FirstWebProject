@@ -1,0 +1,58 @@
+.baslik h1{
+  text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color:#333;
+    line-height: 40px;
+    text-transform: capitalize;
+    position: relative;
+}
+.duzeyBaslik h3{
+  text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    color:#333;
+    line-height: 40px;
+    margin-top: 10%;
+    text-transform: capitalize;
+    position: relative;
+}
+.genelDuzey{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: #fff;
+}
+.DilDuzey{
+  float: left;
+  width: 50%;
+
+  margin: auto;
+  margin-left: 3%;
+    padding: 0;
+  position: relative;
+
+
+}
+.ProgramDuzey{
+  margin: auto;
+  margin-right: 3%;
+ margin-top: 1%;
+  position: relative;
+  padding: 0;
+  width:40%;
+  float: right;
+
+}
+.duzeyler{
+  border-radius: 50px;
+  width: 100%;
+  margin: 20px auto;
+  position: relative;
+background-color: rgb(193,193,193);
+}
+.diller{
+border-radius: 50px;
+width: 1%;
+  background: rgba(124, 75, 170, 0.89);
+}

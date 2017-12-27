@@ -1,0 +1,97 @@
+.ziyaretFormuDiv{
+  height: 10%;
+  width: 100%;
+  position: relative;
+  margin-top: 2%;
+  text-align: center;
+
+}
+form{
+  width: 100%;
+  height: 10%;
+  font-weight: 900;
+  }
+
+form input[type=text],textarea,select,option{
+  width: 25%;
+  height: 40px;
+  color:#333;
+  font-weight: 600;
+  box-sizing: border-box;
+  border : 1px solid gray;
+  padding: 12px;
+  outline: none;
+  border-radius: 3px;
+  margin:10px;
+  margin-top: 0;
+  resize: none;
+  overflow: hidden;
+}
+textarea{
+  width: 45%;
+
+  padding-bottom: 5%;
+  float: right;
+}
+form input[type=submit]{
+  cursor:pointer;
+    width:99%;
+    border-radius: 5px;
+    border:none;
+    background: rgba(124, 75, 170, 0.69);
+    color:#FFF;
+
+    padding:10px;
+    font-size:15px;
+}
+h6,h1{
+  text-align: center;
+}
+input[type=text]:focus,textarea:focus,select:focus{
+  border: 2px solid rgba(124, 75, 170, 0.89);
+}
+form input[type=submit]:hover {
+  background-color: rgb(124, 75, 170);
+  transition:background-color 0.3s ease-in-out;
+}
+.yorumDiv {
+margin-left: 4%;
+width: 47.5%;
+float: left;
+margin: 1%;
+border: 1px solid #ccc;
+
+}
+
+.yorumBaslik {
+position: relative;
+display: flex;
+flex-direction: row;
+padding: 10px;
+border-bottom: 2px solid rgba(124, 75, 170, 0.89);
+}
+.yorumBaslik img {
+position: relative;
+border-radius: 100%;
+height: 55px;
+width: 55px;
+}
+.kullaniciBilgi {
+position: relative;
+margin-left: 10px;
+line-height: 1.2;
+color: #333;
+font-size: 14px;
+}
+.bilgiYazi{
+  margin-top: 10px;
+}
+
+.kullaniciYorum {
+position: relative;
+color:#333;
+margin: 15px;
+line-height: 1.7;
+font-size: 16px;
+margin-bottom: 10px;
+}

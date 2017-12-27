@@ -1,0 +1,12 @@
+Proje Atom programi üzerinde hazirlanmistir.
+
+iletisim.php - PHPMail kütüphanesini indirdim ve google smtp ayarlarini da yaptim fakat SMPT sunucusuna baglanamiyor seklinde hata aliyor. Suan için iletisim sayfasi 
+üzerinden mail gönderilemiyor.
+
+Proje yapilirken mümkün oldugunca % 'ler ile genislik-yükseklik degerleri verilmistir. Farkli çözünürlüklerde ufak bozulmalar meydana gelebilir.
+
+Ilk açtiginizda Session ve ziyaretçi arasindaki bos alanin dolmasi için ziyaretçi defterinden mail bilgisi girilmelidir.
+
+Proje içerisinde veritabani istemediginiz için Blog sayfasindaki makaleleri örnek bir adet yaziya yönlendirdim. Veritabani ile çok daha güzel bir is yapilabilir.
+
+Panel üzerindeki içerik kismi blog sayfasinda kullanilmamistir. Projeye veritabani eklenecegi zaman kullanilacaktir.

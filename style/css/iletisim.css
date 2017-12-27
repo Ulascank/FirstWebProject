@@ -1,0 +1,83 @@
+.baslik h1{
+  text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color:#333;
+    line-height: 40px;
+    position: relative;
+}
+.headerYazi h5{
+  position: relative;
+  text-align: right;
+  float: right;
+  color: #fff;
+  font-size: 15px;
+  border-bottom: 2px solid #333;
+  bottom: 30px;
+  right: 30px;
+}
+form{
+  width: 30%;
+  height: 100%;
+  margin-left: 2%;
+  font-weight: 900;
+  margin: 30px;
+  z-index: 999;
+  }
+form input[type=text],textarea{
+  width: 100%;
+  color:#333;
+  font-weight: 600;
+  box-sizing: border-box;
+  border : 1px solid gray;
+  padding: 12px;
+  outline: none;
+	border-radius: 5px;
+	margin-top:10px;
+  resize: none;
+  overflow: hidden;
+}
+form button{
+  cursor:pointer;
+  	width:100%;
+  	border:none;
+  	background: rgba(124, 75, 170, 0.69);
+  	color:#FFF;
+  	margin:0 0 5px;
+  	padding:10px;
+  	font-size:15px;
+}
+input[type=text]:focus,textarea:focus{
+  border: 2px solid rgba(124, 75, 170, 0.89);
+}
+form button:hover {
+	background-color: rgb(124, 75, 170);
+	transition:background-color 0.3s ease-in-out;
+}
+.sekilliYazi{
+  position: absolute;
+  right: 40px;
+  width: 70%;
+
+
+}
+.sekilliYazi h1{
+  font-size: 100px;
+  text-align: right;
+  letter-spacing: 20px;
+
+}
+.sekilliYazi h2{
+  text-align: right;
+  letter-spacing: 8px;
+  font-size: 40px;
+color:#333;
+}
+.footer{
+  margin: 4%;
+}
+.iconlar img{
+  position: relative;
+  margin-right: 40px;
+  float: right;
+}

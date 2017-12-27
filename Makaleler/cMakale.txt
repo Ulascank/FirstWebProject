@@ -1,0 +1,3 @@
+OOP,Nesne yönelimli progaramlama özeti,style/resimler/icerik1.png,
+Design Patterns,Tasarım Desenleri,style/resimler/icerik1.png,
+Fonksiyonlar,func,style/resimler/icerik1.png,
